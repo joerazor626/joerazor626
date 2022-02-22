@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joerazor626
 - 👀 I’m interested in web+app+desktop apps
-- 🌱 I’m currently learning node Js
+- 🌱 I’m currently learning nodejs
 - 💞️ I’m looking to collaborate on Js projects
 
 <!---
